@@ -205,6 +205,6 @@ int main(int p_argc, const char* p_argv[])
 		}
 	}
 
-	std::cout << "[!] Success! Thanks, James!" << std::endl;
+	std::cout << "[!] Success!" << std::endl;
 	return EXIT_SUCCESS;
 }
